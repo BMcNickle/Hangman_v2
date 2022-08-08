@@ -1,0 +1,5 @@
+C:\Users\admin\Documents\VS Projects\NewHangMan\Published\NewHangMan.exe
+C:\Users\admin\Documents\VS Projects\NewHangMan\Published\NewHangMan.dll
+C:\Users\admin\Documents\VS Projects\NewHangMan\Published\NewHangMan.deps.json
+C:\Users\admin\Documents\VS Projects\NewHangMan\Published\NewHangMan.runtimeconfig.json
+C:\Users\admin\Documents\VS Projects\NewHangMan\Published\NewHangMan.pdb

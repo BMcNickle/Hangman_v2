@@ -1,0 +1,17 @@
+C:\Users\Barry\Documents\VS Projects\NewHangMan\bin\Debug\net6.0\NewHangMan.exe
+C:\Users\Barry\Documents\VS Projects\NewHangMan\bin\Debug\net6.0\NewHangMan.deps.json
+C:\Users\Barry\Documents\VS Projects\NewHangMan\bin\Debug\net6.0\NewHangMan.runtimeconfig.json
+C:\Users\Barry\Documents\VS Projects\NewHangMan\bin\Debug\net6.0\NewHangMan.dll
+C:\Users\Barry\Documents\VS Projects\NewHangMan\bin\Debug\net6.0\NewHangMan.pdb
+C:\Users\Barry\Documents\VS Projects\NewHangMan\obj\Debug\net6.0\NewHangMan.csproj.AssemblyReference.cache
+C:\Users\Barry\Documents\VS Projects\NewHangMan\obj\Debug\net6.0\NewHangMan.Properties.Resources.resources
+C:\Users\Barry\Documents\VS Projects\NewHangMan\obj\Debug\net6.0\NewHangMan.csproj.GenerateResource.cache
+C:\Users\Barry\Documents\VS Projects\NewHangMan\obj\Debug\net6.0\NewHangMan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barry\Documents\VS Projects\NewHangMan\obj\Debug\net6.0\NewHangMan.AssemblyInfoInputs.cache
+C:\Users\Barry\Documents\VS Projects\NewHangMan\obj\Debug\net6.0\NewHangMan.AssemblyInfo.cs
+C:\Users\Barry\Documents\VS Projects\NewHangMan\obj\Debug\net6.0\NewHangMan.csproj.CoreCompileInputs.cache
+C:\Users\Barry\Documents\VS Projects\NewHangMan\obj\Debug\net6.0\NewHangMan.dll
+C:\Users\Barry\Documents\VS Projects\NewHangMan\obj\Debug\net6.0\refint\NewHangMan.dll
+C:\Users\Barry\Documents\VS Projects\NewHangMan\obj\Debug\net6.0\NewHangMan.pdb
+C:\Users\Barry\Documents\VS Projects\NewHangMan\obj\Debug\net6.0\NewHangMan.genruntimeconfig.cache
+C:\Users\Barry\Documents\VS Projects\NewHangMan\obj\Debug\net6.0\ref\NewHangMan.dll

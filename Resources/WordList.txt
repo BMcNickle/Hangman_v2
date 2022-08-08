@@ -1,0 +1,8 @@
+turtle
+biscuit
+book
+hotel
+carpet
+appartment
+fridge
+television
